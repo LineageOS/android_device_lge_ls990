@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_122bf3ec",
+        "filename": "overlay/packages/services/Telephony/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-12-23T11:42:02Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "51880dcfb3e02c0631f04418d7a818a9247ba11d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_52357b44",
+        "filename": "overlay/packages/services/Telephony/res/values/network_mode.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2014-12-23T11:42:02Z",
+      "side": 1,
+      "message": "i wonder if we should investigate adding the GSM option if world_phone is enabled in framework/telephony package",
+      "revId": "51880dcfb3e02c0631f04418d7a818a9247ba11d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

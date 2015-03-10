@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_a5410b3c",
+        "filename": "overlay/packages/services/Telephony/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2015-03-10T12:57:48Z",
+      "side": 1,
+      "message": "these comments and unused options should be removed",
+      "revId": "78415e990e6b690aa736802dbd54935eaff31611",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

@@ -54,6 +54,10 @@ vendor/lib/libnetmgr.so
 vendor/lib/libril-qc-qmi-1.so
 vendor/lib/libril-qcril-hook-oem.so
 
+# Sprint
+-priv-app/SprintDM/SprintDM.apk
+-priv-app/SprintHM/SprintHM.apk
+
 # Venus (media) firmware
 etc/firmware/venus.b00
 etc/firmware/venus.b01

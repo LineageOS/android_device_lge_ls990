@@ -18,6 +18,8 @@
 # inherit from common g3
 -include device/lge/g3-common/BoardConfigCommon.mk
 
+BUILD_BROKEN_DUP_RULES := true
+
 TARGET_OTA_ASSERT_DEVICE := g3,ls990
 
 # Bluetooth
